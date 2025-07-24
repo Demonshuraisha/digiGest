@@ -1,0 +1,497 @@
+[
+  {
+    "id": 1,
+    "nom": "Botamon",
+    "niveau": "Bébé I",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Chaleur"]
+  },
+  {
+    "id": 2,
+    "nom": "Koromon",
+    "niveau": "Bébé II",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle Acide"]
+  },
+  {
+    "id": 3,
+    "nom": "Agumon",
+    "niveau": "Disciple",
+    "type": "Dragon Reptile",
+    "attribut": "Vaccin",
+    "famille": ["Nature Spirits", "Dragon's Roar", "Metal Empire"],
+    "attaques_speciales": ["Flamme Bébé", "Griffes Coupantes"]
+  },
+  {
+    "id": 4,
+    "nom": "Greymon",
+    "niveau": "Champion",
+    "type": "Dragon Dino",
+    "attribut": "Vaccin",
+    "famille": ["Nature Spirits", "Dragon's Roar"],
+    "attaques_speciales": ["Mega Flamme", "Cornes Puissantes"]
+  },
+  {
+    "id": 5,
+    "nom": "MetalGreymon",
+    "niveau": "Ultime",
+    "type": "Cyborg",
+    "attribut": "Vaccin",
+    "famille": ["Metal Empire", "Dragon's Roar"],
+    "attaques_speciales": ["Giga Détruire", "Tranche-Griffes"]
+  },
+  {
+    "id": 6,
+    "nom": "WarGreymon",
+    "niveau": "Méga",
+    "type": "Guerrier Dragon",
+    "attribut": "Vaccin",
+    "famille": ["Metal Empire", "Dragon's Roar"],
+    "attaques_speciales": ["Terre Force", "Bouclier Brave", "Tornade Nova"]
+  },
+  {
+    "id": 7,
+    "nom": "Punimon",
+    "niveau": "Bébé I",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle d'Air"]
+  },
+  {
+    "id": 8,
+    "nom": "Tsunomon",
+    "niveau": "Bébé II",
+    "type": "Bébé Bête",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Colle"]
+  },
+  {
+    "id": 9,
+    "nom": "Gabumon",
+    "niveau": "Disciple",
+    "type": "Reptile",
+    "attribut": "Donnée",
+    "famille": ["Deep Savers", "Nature Spirits"],
+    "attaques_speciales": ["Corne Bleue", "Souffle de Flammes"]
+  },
+  {
+    "id": 10,
+    "nom": "Garurumon",
+    "niveau": "Champion",
+    "type": "Bête Loup",
+    "attribut": "Donnée",
+    "famille": ["Nature Spirits", "Nightmare Soldiers"],
+    "attaques_speciales": ["Hurlement d'Explosion", "Croc de Glace"]
+  },
+  {
+    "id": 11,
+    "nom": "WereGarurumon",
+    "niveau": "Ultime",
+    "type": "Homme-Bête",
+    "attribut": "Donnée",
+    "famille": ["Nature Spirits", "Nightmare Soldiers"],
+    "attaques_speciales": ["Griffe du Loup", "Frappe Lunaire"]
+  },
+  {
+    "id": 12,
+    "nom": "MetalGarurumon",
+    "niveau": "Méga",
+    "type": "Cyborg",
+    "attribut": "Donnée",
+    "famille": ["Metal Empire", "Nature Spirits"],
+    "attaques_speciales": ["Souffle de Givre", "Missile Garuru"]
+  },
+  {
+    "id": 13,
+    "nom": "Poyomon",
+    "niveau": "Bébé I",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Colle"]
+  },
+  {
+    "id": 14,
+    "nom": "Tokomon",
+    "niveau": "Bébé II",
+    "type": "Bébé",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle Avaleuse"]
+  },
+  {
+    "id": 15,
+    "nom": "Patamon",
+    "niveau": "Disciple",
+    "type": "Mammifère",
+    "attribut": "Donnée",
+    "famille": ["Wind Guardians", "Nature Spirits"],
+    "attaques_speciales": ["Bulle d'Air", "Frappe d'Aile"]
+  },
+  {
+    "id": 16,
+    "nom": "Angemon",
+    "niveau": "Champion",
+    "type": "Ange",
+    "attribut": "Vaccin",
+    "famille": ["Virus Busters", "Wind Guardians"],
+    "attaques_speciales": ["Main du Destin", "Coup de Poing du Ciel"]
+  },
+  {
+    "id": 17,
+    "nom": "MagnaAngemon",
+    "niveau": "Ultime",
+    "type": "Ange",
+    "attribut": "Vaccin",
+    "famille": ["Virus Busters", "Wind Guardians"],
+    "attaques_speciales": ["Porte du Jugement", "Poing de l'Archange"]
+  },
+  {
+    "id": 18,
+    "nom": "Seraphimon",
+    "niveau": "Méga",
+    "type": "Séraphin",
+    "attribut": "Vaccin",
+    "famille": ["Virus Busters", "Wind Guardians"],
+    "attaques_speciales": ["Sept Cieux", "Enfer Ascendant"]
+  },
+  {
+    "id": 19,
+    "nom": "Nyaromon",
+    "niveau": "Bébé II",
+    "type": "Bébé Bête",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Vitesse"]
+  },
+  {
+    "id": 20,
+    "nom": "Gatomon",
+    "niveau": "Champion",
+    "type": "Bête Sacrée",
+    "attribut": "Vaccin",
+    "famille": ["Nature Spirits", "Virus Busters"],
+    "attaques_speciales": ["Griffe de Chat", "Coup de Poing Foudre"]
+  },
+  {
+    "id": 21,
+    "nom": "Angewomon",
+    "niveau": "Ultime",
+    "type": "Ange",
+    "attribut": "Vaccin",
+    "famille": ["Virus Busters", "Wind Guardians"],
+    "attaques_speciales": ["Flèche Sainte", "Coup de Foudre"]
+  },
+  {
+    "id": 22,
+    "nom": "Magnadramon",
+    "niveau": "Méga",
+    "type": "Dragon Sacré",
+    "attribut": "Vaccin",
+    "famille": ["Virus Busters", "Dragon's Roar"],
+    "attaques_speciales": ["Souffle du Feu Sacré", "Attaque de Perle"]
+  },
+  {
+    "id": 23,
+    "nom": "Pettitmon",
+    "niveau": "Bébé I",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Chaleur"]
+  },
+  {
+    "id": 24,
+    "nom": "Budmon",
+    "niveau": "Bébé II",
+    "type": "Plante",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Jet de Poison"]
+  },
+  {
+    "id": 25,
+    "nom": "Palmon",
+    "niveau": "Disciple",
+    "type": "Plante",
+    "attribut": "Donnée",
+    "famille": ["Jungle Troopers", "Nature Spirits"],
+    "attaques_speciales": ["Épines Poison", "Attaque de Racine"]
+  },
+  {
+    "id": 26,
+    "nom": "Togemon",
+    "niveau": "Champion",
+    "type": "Plante",
+    "attribut": "Donnée",
+    "famille": ["Jungle Troopers", "Nature Spirits"],
+    "attaques_speciales": ["Poinçon d'Épines", "Fleur de Tissage"]
+  },
+  {
+    "id": 27,
+    "nom": "Lillymon",
+    "niveau": "Ultime",
+    "type": "Fée",
+    "attribut": "Donnée",
+    "famille": ["Jungle Troopers", "Wind Guardians"],
+    "attaques_speciales": ["Pistolet Fleur", "Attaque de Fleur"]
+  },
+  {
+    "id": 28,
+    "nom": "Rosemon",
+    "niveau": "Méga",
+    "type": "Fée",
+    "attribut": "Donnée",
+    "famille": ["Jungle Troopers", "Wind Guardians"],
+    "attaques_speciales": ["Baiser de Rose", "Fleur de Tissage"]
+  },
+  {
+    "id": 29,
+    "nom": "Pukamon",
+    "niveau": "Bébé I",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle"]
+  },
+  {
+    "id": 30,
+    "nom": "Ukkomon",
+    "niveau": "Bébé II",
+    "type": "Bébé Aquatique",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Jet d'Eau"]
+  },
+  {
+    "id": 31,
+    "nom": "Gomamon",
+    "niveau": "Disciple",
+    "type": "Bête Marine",
+    "attribut": "Vaccin",
+    "famille": ["Deep Savers", "Nature Spirits"],
+    "attaques_speciales": ["Marche des Poissons", "Queue de Poisson"]
+  },
+  {
+    "id": 32,
+    "nom": "Ikkakumon",
+    "niveau": "Champion",
+    "type": "Bête Marine",
+    "attribut": "Vaccin",
+    "famille": ["Deep Savers"],
+    "attaques_speciales": ["Harpon Vulcain", "Jet de Glace"]
+  },
+  {
+    "id": 33,
+    "nom": "Zudomon",
+    "niveau": "Ultime",
+    "type": "Bête Marine",
+    "attribut": "Vaccin",
+    "famille": ["Deep Savers", "Metal Empire"],
+    "attaques_speciales": ["Marteau Vulcain", "Marteau de Boue"]
+  },
+  {
+    "id": 34,
+    "nom": "Vikemon",
+    "niveau": "Méga",
+    "type": "Homme-Bête",
+    "attribut": "Vaccin",
+    "famille": ["Deep Savers", "Nature Spirits"],
+    "attaques_speciales": ["Marteau du Berserker", "Tempête Arctique"]
+  },
+  {
+    "id": 35,
+    "nom": "Pichimon",
+    "niveau": "Bébé I",
+    "type": "Slime",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Jet d'Acide"]
+  },
+  {
+    "id": 36,
+    "nom": "Pyoromon",
+    "niveau": "Bébé II",
+    "type": "Bébé Oiseau",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Chaleur"]
+  },
+  {
+    "id": 37,
+    "nom": "Piyomon",
+    "niveau": "Disciple",
+    "type": "Oiseau",
+    "attribut": "Vaccin",
+    "famille": ["Wing Saver", "Wind Guardians"],
+    "attaques_speciales": ["Battement de Météore", "Bec vrille"]
+  },
+  {
+    "id": 38,
+    "nom": "Birdramon",
+    "niveau": "Champion",
+    "type": "Oiseau Géant",
+    "attribut": "Vaccin",
+    "famille": ["Wing Saver", "Wind Guardians"],
+    "attaques_speciales": ["Ailes Météore", "Bec Déflagration"]
+  },
+  {
+    "id": 39,
+    "nom": "Garudamon",
+    "niveau": "Ultime",
+    "type": "Homme-Oiseau",
+    "attribut": "Vaccin",
+    "famille": ["Wing Saver", "Wind Guardians"],
+    "attaques_speciales": ["Flèche de l'Aigle", "Tir de Flamme"]
+  },
+  {
+    "id": 40,
+    "nom": "Phoenixmon",
+    "niveau": "Méga",
+    "type": "Bête Sacrée",
+    "attribut": "Vaccin",
+    "famille": ["Wing Saver", "Virus Busters"],
+    "attaques_speciales": ["Flamme de la Vie", "Crocs de Feu"]
+  },
+  {
+    "id": 41,
+    "nom": "Mochimon",
+    "niveau": "Bébé II",
+    "type": "Bébé",
+    "attribut": "Libre",
+    "famille": [],
+    "attaques_speciales": ["Bulle de Sucre"]
+  },
+  {
+    "id": 42,
+    "nom": "Tentomon",
+    "niveau": "Disciple",
+    "type": "Insecte",
+    "attribut": "Donnée",
+    "famille": ["Nature Spirits", "Jungle Troopers"],
+    "attaques_speciales": ["Dard Électrique", "Charge de Fil"]
+  },
+  {
+    "id": 43,
+    "nom": "Kabuterimon",
+    "niveau": "Champion",
+    "type": "Insecte",
+    "attribut": "Vaccin",
+    "famille": ["Nature Spirits", "Jungle Troopers"],
+    "attaques_speciales": ["Mega Blaster", "Cornes Coupantes"]
+  },
+  {
+    "id": 44,
+    "nom": "MegaKabuterimon",
+    "niveau": "Ultime",
+    "type": "Insecte",
+    "attribut": "Vaccin",
+    "famille": ["Jungle Troopers", "Metal Empire"],
+    "attaques_speciales": ["Corne Attaque", "Météore Corrompu"]
+  },
+  {
+    "id": 45,
+    "nom": "HerculesKabuterimon",
+    "niveau": "Méga",
+    "type": "Insecte",
+    "attribut": "Vaccin",
+    "famille": ["Jungle Troopers", "Metal Empire"],
+    "attaques_speciales": ["Méga Blaster Giga", "Corne de Justice"]
+  },
+  {
+    "id": 46,
+    "nom": "Devimon",
+    "niveau": "Champion",
+    "type": "Ange Démon",
+    "attribut": "Virus",
+    "famille": ["Nightmare Soldiers"],
+    "attaques_speciales": ["Main de la Mort", "Rayon Démon"]
+  },
+  {
+    "id": 47,
+    "nom": "Etemon",
+    "niveau": "Ultime",
+    "type": "Puppe",
+    "attribut": "Virus",
+    "famille": ["Nightmare Soldiers"],
+    "attaques_speciales": ["Amour de la Mort", "Concert de la Mort"]
+  },
+  {
+    "id": 48,
+    "nom": "Myotismon",
+    "niveau": "Ultime",
+    "type": "Mort-Vivant",
+    "attribut": "Virus",
+    "famille": ["Nightmare Soldiers"],
+    "attaques_speciales": ["Nuit de l'Épouvantail", "Batte Noire"]
+  },
+  {
+    "id": 49,
+    "nom": "VenomMyotismon",
+    "niveau": "Méga",
+    "type": "Bête Démon",
+    "attribut": "Virus",
+    "famille": ["Nightmare Soldiers"],
+    "attaques_speciales": ["Infini de la Nuit", "Attaque de Venom"]
+  },
+  {
+    "id": 50,
+    "nom": "Piedmon",
+    "niveau": "Méga",
+    "type": "Homme Démon",
+    "attribut": "Virus",
+    "famille": ["Nightmare Soldiers"],
+    "attaques_speciales": ["Tromperie du Clown", "Épées Atroces"]
+  },
+  {
+    "id": 51,
+    "nom": "Machinedramon",
+    "niveau": "Méga",
+    "type": "Cyborg",
+    "attribut": "Virus",
+    "famille": ["Metal Empire"],
+    "attaques_speciales": ["Canon Giga", "Attaque de Métal"]
+  },
+  {
+    "id": 52,
+    "nom": "MetalSeadramon",
+    "niveau": "Méga",
+    "type": "Cyborg Aquatique",
+    "attribut": "Donnée",
+    "famille": ["Deep Savers", "Metal Empire"],
+    "attaques_speciales": ["Flèche Arctique", "Vague de l'Océan"]
+  },
+  {
+    "id": 53,
+    "nom": "Puppetmon",
+    "niveau": "Méga",
+    "type": "Puppe",
+    "attribut": "Virus",
+    "famille": ["Nightmare Soldiers"],
+    "attaques_speciales": ["Fil de Marionnette", "Marteau de la Justice"]
+  },
+  {
+    "id": 54,
+    "nom": "Apocalymon",
+    "niveau": "Méga",
+    "type": "Inconnu",
+    "attribut": "Inconnu",
+    "famille": [],
+    "attaques_speciales": ["Mort de la Terre", "Bombe de la Négation"]
+  },
+  {
+    "id": 55,
+    "nom": "Omnimon",
+    "niveau": "Méga",
+    "type": "Guerrier Saint",
+    "attribut": "Vaccin",
+    "famille": ["Virus Busters", "Metal Empire"],
+    "attaques_speciales": ["Épée Garuru", "Canon Greymon", "Souffle Transcendant"]
+  }
+]
